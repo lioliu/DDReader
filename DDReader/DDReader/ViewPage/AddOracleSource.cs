@@ -8,13 +8,20 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DDReader
+namespace DDReader.ViewPage
 {
-    public partial class Form1 : Form
+    public partial class AddOracleSource : Form
     {
-        public Form1()
+        public AddOracleSource()
         {
             InitializeComponent();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            panel1.Visible = !panel1.Visible;
+            panel2.Visible = !panel2.Visible;
+
         }
     }
 }

@@ -1,1 +1,11 @@
 C:\Users\lioliu\Desktop\DDReader\DDReader\DDReader\bin\Debug\DDReader.exe.config
+C:\Users\admin\Desktop\DD\DDReader\DDReader\DDReader\bin\Debug\DDReader.exe.config
+C:\Users\admin\Desktop\DD\DDReader\DDReader\DDReader\bin\Debug\DDReader.exe
+C:\Users\admin\Desktop\DD\DDReader\DDReader\DDReader\bin\Debug\DDReader.pdb
+C:\Users\admin\Desktop\DD\DDReader\DDReader\DDReader\obj\Debug\DDReader.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\DD\DDReader\DDReader\DDReader\obj\Debug\DDReader.Properties.Resources.resources
+C:\Users\admin\Desktop\DD\DDReader\DDReader\DDReader\obj\Debug\DDReader.MainPage.resources
+C:\Users\admin\Desktop\DD\DDReader\DDReader\DDReader\obj\Debug\DDReader.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\DD\DDReader\DDReader\DDReader\obj\Debug\DDReader.exe
+C:\Users\admin\Desktop\DD\DDReader\DDReader\DDReader\obj\Debug\DDReader.pdb
+C:\Users\admin\Desktop\DD\DDReader\DDReader\DDReader\obj\Debug\DDReader.ViewPage.AddOracleSource.resources
